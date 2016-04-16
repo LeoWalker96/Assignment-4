@@ -1,0 +1,10 @@
+
+public class Configuration {
+	public static String FIRSTNAME_ERROR = "First name can't be blank";
+	public static String LASTNAME_ERROR = "Last name can't be blank";
+	public static String EMAIL_ERROR = "Email can't be blank";
+	public static String USERNAME_ERROR = "User name can't be blank";
+	public static String PASSWORD_ERROR = "Password can't be blank";
+	public static String CONFIRM_PW_ERROR = "Confirm password can't be blank";
+	
+}
